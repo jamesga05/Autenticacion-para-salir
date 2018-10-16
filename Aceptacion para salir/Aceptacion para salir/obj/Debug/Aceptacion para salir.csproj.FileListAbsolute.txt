@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2015\Projects\Aceptacion para salir\Aceptacion para salir\bin\Debug\Aceptacion para salir.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Aceptacion para salir\Aceptacion para salir\bin\Debug\Aceptacion para salir.exe
+c:\users\dell\documents\visual studio 2015\Projects\Aceptacion para salir\Aceptacion para salir\bin\Debug\Aceptacion para salir.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Aceptacion para salir\Aceptacion para salir\obj\Debug\Aceptacion para salir.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Aceptacion para salir\Aceptacion para salir\obj\Debug\Aceptacion_para_salir.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\Aceptacion para salir\Aceptacion para salir\obj\Debug\Aceptacion_para_salir.Form2.resources
+c:\users\dell\documents\visual studio 2015\Projects\Aceptacion para salir\Aceptacion para salir\obj\Debug\Aceptacion_para_salir.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Aceptacion para salir\Aceptacion para salir\obj\Debug\Aceptacion para salir.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\Aceptacion para salir\Aceptacion para salir\obj\Debug\Aceptacion para salir.exe
+c:\users\dell\documents\visual studio 2015\Projects\Aceptacion para salir\Aceptacion para salir\obj\Debug\Aceptacion para salir.pdb
